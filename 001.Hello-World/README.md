@@ -10,3 +10,5 @@ to test the script you can type the command this, but this not build apps extens
 
 ``I recommend to test GoLang you can type **go run**`` 
 
+## Video
+Source : [Belajar Go-Lang - 2 Program Hello World](https://youtu.be/sDHZbPfrNoM)
