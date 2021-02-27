@@ -23,3 +23,6 @@ What is Boolean, Boolean In computer science, the Boolean data type is a data ty
   </tr>
   
 </table>
+
+## Video
+Source : [Belajar Go-Lang - 4 Tipe Data Boolean](https://youtu.be/RgufJoZ4idA)
